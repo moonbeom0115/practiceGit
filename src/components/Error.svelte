@@ -1,6 +1,5 @@
-// commit 용 주석 추가
-
 <script>
+
     export let error  // 전달받은 오류
 </script>
 
