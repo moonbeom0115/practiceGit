@@ -1,5 +1,3 @@
-// 에잇 conflict 나버려라
-
 <script>
 
     export let error  // 전달받은 오류
